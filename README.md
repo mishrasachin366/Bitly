@@ -29,8 +29,8 @@ use SachinTool\BitlyConnect;
 $response = $response->connect(BITLY_CLIENT_ID,BITLY_CLIENT_SECRET, $code, $callback_url);
 ```
 
-# Bitly
-Bitly Share
+
+# Bitly Share
 
 #### Example with parameter
 ```
