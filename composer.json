@@ -1,0 +1,21 @@
+{
+    "name": "sachintool/bitly-connect",
+    "type": "library",
+    "description": "Connect Bitly Account",
+    "keywords": ["Client Id","Client Secret","Code","Redirect Uri"],
+    "homepage": "http://sachinms.herokuapp.com/",
+    "authors": [
+        {
+            "name": "sachin",
+            "email": "mishrasachin366@gmail.com",
+            "homepage": "http://sachinms.herokuapp.com/",
+            "role": "Web Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.6.39"
+    },
+    "autoload": {
+        "psr-4": {"SachinTool\\": ""}
+    }
+}
