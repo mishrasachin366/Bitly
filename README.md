@@ -29,6 +29,17 @@ use SachinTool\BitlyConnect;
 $response = $response->connect(BITLY_CLIENT_ID,BITLY_CLIENT_SECRET, $code, $callback_url);
 ```
 
+# Bitly
+Bitly Share
+
+#### Example with parameter
+```
+use SachinTool\BitlyConnect;
+
+$response = $response->share($access_token, $video_url);
+```
+
+
 # Developer
 Sachin Mishra (http://sachinms.herokuapp.com/) 
 
