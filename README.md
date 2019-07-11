@@ -20,7 +20,7 @@ click this url and create app and call back url
 
 https://app.bitly.com/BiaqctIkmtE/bitlinks/2X7RHET?actions=accountMain&actions=profile&actions=registeredOauthApps
 
-return BITLY_CLIENT_ID, BITLY_CLIENT_SECRET and CALL BACK URL
+Return BITLY_CLIENT_ID, BITLY_CLIENT_SECRET and CALL BACK URL
 
 # Call back Url
 
