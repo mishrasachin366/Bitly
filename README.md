@@ -1,5 +1,5 @@
 # Bitly
-Bitly Connect
+This is used to Connect Bitly Account and to generate Bitly Url
 
 # Installation
 ```
@@ -12,6 +12,7 @@ https://bitly.com/oauth/authorize
 
 Create bitlyCallback Function and
 
+# Code Generate
 $code = $this->request->getQuery('code');
 
 Craete callback url
